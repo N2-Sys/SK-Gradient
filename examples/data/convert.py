@@ -1,3 +1,6 @@
+# This file is modified from https://github.com/openbenchmark/BARS/blob/master/ctr_prediction/datasets/Criteo/Criteo_x1/convert_criteo_x1.py
+# to crop and convert libsvm data to csv data
+
 import pandas as pd
 from pathlib import Path
 import gc

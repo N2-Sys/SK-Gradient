@@ -1,4 +1,6 @@
-import os
+# This file is modified from https://github.com/openbenchmark/BARS/blob/master/ctr_prediction/datasets/Criteo/Criteo_x1/download_criteo_x1.py
+# to download the preprocessed data split Criteo_x1
+
 import zipfile
 import urllib.request
 from tqdm import tqdm
