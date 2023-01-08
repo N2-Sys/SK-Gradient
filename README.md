@@ -16,4 +16,6 @@ The required packages are as follows:
 
 ## Examples
 
-We provide a reproducible example of applying SK-Gradient to CTR prediction tasks. We use the DeepFM model provided by [DeepCTR-torch](https://github.com/shenweichen/DeepCTR-Torch) and the Criteo dataset. Please refer to our [CTR-Prediction-Example](https://github.com/N2-Sys/SK-Gradient/tree/main/examples) for details.
+We provide reproducible training scripts for all models in our experiments as examples. 
+We also provide the download links or download scripts for the datasets in these examples.
+Please refer to our [examples](https://github.com/N2-Sys/SK-Gradient/tree/main/examples) for details.
