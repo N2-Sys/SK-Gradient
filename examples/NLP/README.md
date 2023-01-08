@@ -18,6 +18,7 @@ The required packages are as follows:
 ## Datasets
 
 We use the [THUCNews](http://thuctc.thunlp.org/) dataset. More precisely, we use a small subset of the THUCNews dataset provided by this repository [Bert-Chinese-Text-Classification-Pytorch](https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch).
+This example includes a full duplicate of this dataset in the `THUCNews/data` directory.
 
 ## Pretrained model
 
